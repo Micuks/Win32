@@ -1,0 +1,8 @@
+w
+The ¡®char¡¯ variable is w, it takes 1 byte.
+The ¡®short¡¯ variable is -27648, it takes 2 byte.
+The ¡®int¡¯ variable is 1382236160, it takes 4 byte.
+The ¡®long¡¯ variable is 1382236160, it takes 4 byte.
+The ¡®long long¡¯ variable is 2538972135152631808, it takes 8 byte.
+The ¡®float¡¯ variable is 123456790519087100.000000, it takes 4 byte.
+The ¡®double¡¯ variable is 123456789123456780.000000, it takes 8 byte.
